@@ -56,11 +56,11 @@ const Home: NextPage = () => {
           </a>
 
           <a href="https://testnets.relay.link/mob-devnet-0etlye77td" className={styles.card}>
-            <h2 className='font-medium'>Mob Relay Bridge &rarr;</h2>
+            <h2 className='font-medium'>Relay Bridge &rarr;</h2>
             <p>Mobl3 Secondary Bridge</p>
           </a>
 
-          <a href="#" className={styles.card}>
+          <a href="https://mid.mobl3.xyz" className={styles.card}>
             <h2 className='font-medium'>Mob ID &rarr;</h2>
             <p>Mint Your Mob ID!</p>
           </a>
